@@ -1,0 +1,26 @@
+[
+  { 
+    "name": "John Coder",
+    "connection": "brother",
+    "email": "john@coder.com",
+    "phone": "900-466-1734",
+    "birthdate": "07/13/2020",
+    "id": 1
+  },
+  { 
+    "name": "Link Person",
+    "connection": "Father",
+    "email": "link@person.com",
+    "phone": "900-156-9824",
+    "birthdate": "04/17/1965",
+    "id": 2
+  },
+  { 
+    "name": "Grant Scripter",
+    "connection": "son",
+    "email": "grant@scripter.com",
+    "phone": "900-843-8204",
+    "birthdate": "5/7/2042",
+    "id": 3
+  }
+]
